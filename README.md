@@ -2,6 +2,6 @@
 
 My build of the NestJS e-commerce app from the 2026 cohort.
 
-- **Name:** <your name>
+- **Name:** Vy Sengchhay
 - **Node version:** 24.22.1
-- **Started:** <today's date>
+- **Started:** 02 Novemver 2026
